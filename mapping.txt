@@ -1,0 +1,149 @@
+{{TemplateMapping
+| mapToClass = owl:Thing
+| mappings =
+
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name  }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+
+{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}
+{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
+
+
+
+
+
+
+
+}}

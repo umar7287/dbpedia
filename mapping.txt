@@ -133,9 +133,8 @@ text for 2nd push
 {{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
 {{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
 
-{{PropertyMapping | templateProperty = | ontologyProperty = foaf:name}}
-{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
-{{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
+this line is edited by me
+
 
 {{PropertyMapping | templateProperty = | ontologyProperty =foaf:name }}
 {{PropertyMapping | templateProperty = | ontologyProperty = foaf:name }}

@@ -1,0 +1,15 @@
+{{PropertyMapping | templateProperty = one| ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = two| ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = three| ontologyProperty = foaf:name}}
+
+{{PropertyMapping | templateProperty = four| ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = five| ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = six| ontologyProperty = foaf:name}}
+
+{{PropertyMapping | templateProperty = seven| ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = eight| ontologyProperty = foaf:name}}
+{{PropertyMapping | templateProperty = nine| ontologyProperty = foaf:name}}
+
+
+
+
